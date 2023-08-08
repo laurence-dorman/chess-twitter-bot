@@ -1,6 +1,10 @@
 # chess-twitter-bot
 Post tweets when new chess.com games are played from a specified account
 
+Game over: @User lost on time, new bullet rating: XXXX.
+
+![](doc/example_game.gif)
+
 ## Dependencies
 * You need [python 3.5](https://www.python.org/downloads/) or newer installed.
 - [pgn2gif](#pgn2gif)
