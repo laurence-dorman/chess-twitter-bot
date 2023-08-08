@@ -1,5 +1,5 @@
 # chess-twitter-bot
-Post tweets when new chess.com games are played from a specified account
+Posts GIFs of chess games to twitter when new chess.com games are played from a specified account
 
 Game over: @User lost on time, new bullet rating: XXXX.
 
